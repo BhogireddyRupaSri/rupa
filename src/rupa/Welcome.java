@@ -12,5 +12,6 @@ class Sample
 	{
 		System.out.println("Hii");
 		System.out.println("Hello");
+		System.out.println("What");
 	}
 }
